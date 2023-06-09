@@ -1,0 +1,15 @@
+.header {
+    color: #A0A0A0;
+    font-weight: 600;
+    line-height: 32px;
+    font-size: 24px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    div {
+        margin-left: 20px;
+        &:first-child {
+            margin-left: 0;
+        }
+    }
+}

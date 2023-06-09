@@ -1,9 +1,13 @@
-import './App.css';
+import Payment from './components/Payment';
+import Footer from './components/Footer/Footer';
+
+import './App.scss';
 
 function App() {
   return (
-    <div className="App">
-      Проект создан
+    <div className="container">
+      <Payment />
+      <Footer />
     </div>
   );
 }

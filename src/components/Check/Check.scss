@@ -1,0 +1,38 @@
+.check {
+    background: url('../../../public/assets/Check.svg') no-repeat top center;
+    background-size: 932px 888px;
+    text-align: center;
+    height: 888px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 100px;
+    &-content {
+        width: 585px;
+        &-title {
+            font-size: 36px;
+            font-weight: 600;
+            line-height: 44px;
+            color: #A0A0A0;
+            margin-bottom: 25px;
+        }
+        &-price {
+            font-size: 104px;
+            font-weight: 700;
+            line-height: 112px;
+            color: #34343E;
+            margin-bottom: 44px;
+            span {
+                font-size: 56px;
+                line-height: 79px;
+                margin-right: 8px;
+            }
+        }
+        &-description {
+            font-size: 56px;
+            font-weight: 600;
+            line-height: 64px;
+            color: #00923A;
+        }
+    }
+}
