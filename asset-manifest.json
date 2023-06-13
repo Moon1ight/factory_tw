@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/factory_tw/static/css/main.09c7a818.css",
+    "main.js": "/factory_tw/static/js/main.6e6074ba.js",
+    "static/media/gilroy-semibold.ttf": "/factory_tw/static/media/gilroy-semibold.6780292641f883b3dad3.ttf",
+    "static/media/gilroy-bold.ttf": "/factory_tw/static/media/gilroy-bold.b900325e44ec0c673e88.ttf",
+    "static/media/Check.svg": "/factory_tw/static/media/Check.01eef8b1fae65569527c.svg",
+    "index.html": "/factory_tw/index.html",
+    "main.09c7a818.css.map": "/factory_tw/static/css/main.09c7a818.css.map",
+    "main.6e6074ba.js.map": "/factory_tw/static/js/main.6e6074ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09c7a818.css",
+    "static/js/main.6e6074ba.js"
+  ]
+}
